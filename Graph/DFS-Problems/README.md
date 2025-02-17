@@ -10,3 +10,4 @@ This repository contains my solutions to various DFS-related problems. Each solu
 | Count Components          | [SPOJ - CCOMPS](https://www.spoj.com/problems/CCOMPS/)  | [Solution](./Count-Components.cpp)        | Easy       | DFS, Connected Components |
 | Cycle in Directed Graph   | [SPOJ - PT07Y]()                                        | [Solution](./cycle-in-directed-graph.cpp) | Easy       | DFS, Cycle Detection      |
 | Cycle in Undirected Graph | [SPOJ - PT07Y]()                                        | [Solution](./cycle-in-undirected.cpp)     | Easy       | DFS, Cycle Detection      |
+| Topological Sort          | [EOlymp - 1948](https://vjudge.net/problem/EOlymp-1948) | [Solution](./Topological-Sort.cpp)        | Easy       | DFS, Topological Sort     |
