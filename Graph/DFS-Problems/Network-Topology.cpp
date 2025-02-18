@@ -166,11 +166,11 @@ void solve2()
             cnt3++;
     }
 
-    if (cnt1 == 2 && cnt2 == nodes - 2 && cnt3 == 0)
+    if (cnt1 == 2 && cnt2 == nodes - 2)
         cout << "bus topology";
-    else if (cnt1 == 0 && cnt2 == edges && cnt3 == 0)
+    else if (cnt2 == edges)
         cout << "ring topology";
-    else if (cnt1 == nodes - 1 && cnt2 == 0 && cnt3 == 1)
+    else if (cnt1 == nodes - 1 && cnt3 == 1)
         cout << "star topology";
     else
         cout << "unknown topology";
