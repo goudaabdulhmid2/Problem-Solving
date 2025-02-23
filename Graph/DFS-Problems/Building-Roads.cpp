@@ -1,6 +1,4 @@
 // ============================= problem link: https://cses.fi/problemset/task/1666 =============================
-
-// ==================== Problem Link: https://cses.fi/problemset/task/1192 ====================
 #include <iostream>
 #include <set>
 #include <utility>
