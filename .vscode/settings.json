@@ -56,6 +56,10 @@
   "files.associations": {
     "*.embeddedhtml": "html",
     "iostream": "cpp",
-    "set": "cpp"
+    "set": "cpp",
+    "vector": "cpp",
+    "map": "cpp",
+    "utility": "cpp",
+    "algorithm": "cpp"
   }
 }
