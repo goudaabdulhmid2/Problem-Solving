@@ -60,6 +60,7 @@
     "vector": "cpp",
     "map": "cpp",
     "utility": "cpp",
-    "algorithm": "cpp"
+    "algorithm": "cpp",
+    "ostream": "cpp"
   }
 }
