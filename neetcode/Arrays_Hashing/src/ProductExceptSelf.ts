@@ -1,3 +1,4 @@
+// Problem link: https://neetcode.io/problems/products-of-array-discluding-self
 class ProductExceptSelf {
   productExceptSelf(nums: number[]): number[] {
     const n = nums.length;
