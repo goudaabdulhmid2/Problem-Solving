@@ -1,4 +1,4 @@
-// ============================ problem link: https://leetcode.com/problems/swap-salary/ ============================
+--  ============================ problem link: https://leetcode.com/problems/swap-salary/ ============================
 UPDATE Salary 
 SET sex =
     CASE

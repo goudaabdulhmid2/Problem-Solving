@@ -13,3 +13,4 @@ This repository contains my solutions to various SQL problems and challenges. Th
 | Employee Names              | Easy       | [HackerRank](https://www.hackerrank.com/challenges/name-of-employees/problem)         | [Solution](./Employee-names.sql)              |
 | Swap Salary                 | Easy       | [LetCode](https://leetcode.com/problems/swap-salary/)                                 | [Solution](./swap-salary.sql)                 |
 | Revising the Select Query I | Easy       | [HackerRank](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Solution](./Revising-the-Select-Query-I.sql) |
+| Population in Asia          | Easy       | [HackerRank](https://www.hackerrank.com/challenges/asian-population/problem)          | [Solution](./asian-population.sql)            |
