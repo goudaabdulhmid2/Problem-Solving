@@ -15,3 +15,4 @@ This repository contains my solutions to various SQL problems and challenges. Th
 | Revising the Select Query I | Easy       | [HackerRank](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Solution](./Revising-the-Select-Query-I.sql) |
 | Population in Asia          | Easy       | [HackerRank](https://www.hackerrank.com/challenges/asian-population/problem)          | [Solution](./asian-population.sql)            |
 | Combine Two Tables          | Easy       | [Naukri](https://www.naukri.com/code360/problems/combine-two-tables_2110759)          | [Solution](./Combine-Two-Tables.sql)          |
+| Create tables               | Easy       | [local](./create-tables.png)                                                          | [Solution](./create-tables.sql)               |
