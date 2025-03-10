@@ -17,3 +17,4 @@ This repository contains my solutions to various SQL problems and challenges. Th
 | Combine Two Tables          | Easy       | [Naukri](https://www.naukri.com/code360/problems/combine-two-tables_2110759)          | [Solution](./Combine-Two-Tables.sql)          |
 | Create tables               | Easy       | [local](./create-tables.png)                                                          | [Solution](./create-tables.sql)               |
 | The Report                  | Medium     | [HackerRank](https://www.hackerrank.com/challenges/the-report/problem)                | [Solution](./The-Report.sql)                  |
+| Product Sales Analysis III  | Medium     | [LeetCode](https://leetcode.com/problems/product-sales-analysis-iii)                  | [Solution](./product-sales-analysis-iii.sql)  |
