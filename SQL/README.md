@@ -18,3 +18,4 @@ This repository contains my solutions to various SQL problems and challenges. Th
 | Create tables               | Easy       | [local](./create-tables.png)                                                          | [Solution](./create-tables.sql)               |
 | The Report                  | Medium     | [HackerRank](https://www.hackerrank.com/challenges/the-report/problem)                | [Solution](./The-Report.sql)                  |
 | Product Sales Analysis III  | Medium     | [LeetCode](https://leetcode.com/problems/product-sales-analysis-iii)                  | [Solution](./product-sales-analysis-iii.sql)  |
+| Average Selling Price       | Easy       | [LeetCode](https://leetcode.com/problems/average-selling-price)                       | [Solution](./average-selling-price.sql)       |
